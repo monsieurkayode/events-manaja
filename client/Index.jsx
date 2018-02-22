@@ -10,7 +10,6 @@ render(
       <h3>
         Something is coming...
       </h3>
-      <p>Watch out.....</p>
     </div>
     <div className="sub-text">
       <h5>A #dreamweave project...</h5>
